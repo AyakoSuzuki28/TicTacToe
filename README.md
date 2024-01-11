@@ -1,5 +1,5 @@
 # Tic Tac Toe
-五目並べ(React)
+TicTacToe(React)
 
 # 自主制作
 Reactのチュートリアルをもとに作成しました
